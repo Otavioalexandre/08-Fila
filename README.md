@@ -1,6 +1,10 @@
 # Fila
 ---
 
+#Dados do aluno
+* E-mail: otavioalexandre.camargo@outlook.com
+* Nome Completo: Otávio Alexandre
+
 ## Objetivos
 
 Ao concluir esta atividade você deverá ter compreendido o seguinte conceito:
